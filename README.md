@@ -8,7 +8,7 @@
 - GUI’s
 - Github
 
-## Ramas
+## RAMAS
 
 - Ramificación
 - Fusión de Ramas
